@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|c:\\users\\banan\\source\\repos\\projectabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\icount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:icount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:iprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\ifind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E2D94E-FE42-42A3-BA0C-2FF7C452B4DC}|ProjectAbstraction.csproj|solutionrelative:ifind.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFind.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\IFind.cs",
+              "RelativeDocumentMoniker": "IFind.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\IFind.cs",
+              "RelativeToolTip": "IFind.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:42:14.633Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAIgAAAAAAAAAAAAQwI8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:08:20.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Subject.cs",
+              "RelativeDocumentMoniker": "Subject.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Subject.cs",
+              "RelativeToolTip": "Subject.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAlwBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:54:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Class.cs",
+              "RelativeDocumentMoniker": "Class.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Class.cs",
+              "RelativeToolTip": "Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:46:35.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA2wCYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:37:11.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICount.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\ICount.cs",
+              "RelativeDocumentMoniker": "ICount.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\ICount.cs",
+              "RelativeToolTip": "ICount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T11:36:27.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrint.cs",
+              "DocumentMoniker": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\IPrint.cs",
+              "RelativeDocumentMoniker": "IPrint.cs",
+              "ToolTip": "C:\\Users\\banan\\source\\repos\\ProjectAbstraction\\IPrint.cs",
+              "RelativeToolTip": "IPrint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T12:39:43.214Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

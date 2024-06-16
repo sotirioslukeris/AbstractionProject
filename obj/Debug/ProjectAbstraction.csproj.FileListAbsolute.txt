@@ -1,0 +1,7 @@
+C:\Users\banan\source\repos\ProjectAbstraction\obj\Debug\ProjectAbstraction.csproj.AssemblyReference.cache
+C:\Users\banan\source\repos\ProjectAbstraction\obj\Debug\ProjectAbstraction.csproj.CoreCompileInputs.cache
+C:\Users\banan\source\repos\ProjectAbstraction\bin\Debug\ProjectAbstraction.exe.config
+C:\Users\banan\source\repos\ProjectAbstraction\bin\Debug\ProjectAbstraction.exe
+C:\Users\banan\source\repos\ProjectAbstraction\bin\Debug\ProjectAbstraction.pdb
+C:\Users\banan\source\repos\ProjectAbstraction\obj\Debug\ProjectAbstraction.exe
+C:\Users\banan\source\repos\ProjectAbstraction\obj\Debug\ProjectAbstraction.pdb
